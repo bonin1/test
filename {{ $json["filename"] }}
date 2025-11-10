@@ -1,0 +1,36 @@
+---
+title: "How to Build a Blog with n8n and GitHub"
+description: "Learn how to automate blog publishing using n8n form triggers and GitHub API to create MDX files instantly."
+date: "2025-11-10"
+image: "https://example.com/images/n8n-github-blog.jpg"
+imagealt: "n8n workflow pushing blog post to GitHub"
+slug: "n8n-github-blog-automation"
+author: "Mark Rab"
+metaTitle: "n8n Blog Automation: Form to GitHub in Seconds"
+metaDescription: "Build a headless blog with n8n and GitHub. Submit a form → auto-generate MDX → push to repo. No CMS needed."
+customHtml: "<!-- Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID\"></script>\n<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'GA_MEASUREMENT_ID');</script>"
+---
+
+<h1 class="blog-title">How to Build a Blog with n8n and GitHub</h1>
+<h2 class="blog-h2">Why Automate Your Blog?</h2>
+<h3 class="blog-h3">The Power of No-Code Publishing</h3>
+<p class="blog-p">In this guide, we’ll walk through building a fully automated blog post pipeline using n8n and GitHub. No backend, no database, just pure automation.</p>
+<p class="blog-p"><strong>n8n + GitHub</strong> is the ultimate combo for indie bloggers.</p>
+<a href="/blog/n8n-introduction" class="blog-link" title="What is n8n? A beginner's guide">Learn more about n8n</a>
+<ul class="blog-ul">
+  <li>Zero server maintenance</li>
+  <li>Instant deploys via GitHub</li>
+  <li>Full Markdown/MDX support</li>
+</ul>
+<ol class="blog-ol">
+  <li>Install n8n locally or use cloud</li>
+  <li>Create a form trigger</li>
+  <li>Connect to GitHub API</li>
+</ol>
+<blockquote class="blog-quote">The best blogs are written by humans and deployed by robots.</blockquote>
+<figure class="blog-figure">
+  <img src="https://example.com/images/n8n-github-blog.jpg" alt="n8n workflow pushing blog post to GitHub" class="blog-img">
+  <figcaption class="blog-caption">Automated blog publishing with n8n and GitHub</figcaption>
+</figure>
+<hr class="blog-hr">
+<a href="/contact" class="blog-cta">Start Automating Your Blog</a>
